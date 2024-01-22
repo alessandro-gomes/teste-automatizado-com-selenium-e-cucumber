@@ -6,5 +6,6 @@ Java com Maven.<br />
 Selenium WebDriver.<br />
 Cucumber.<br />
 JUnit.<br />
-Sintaxe Gherkin.<br />
-Navegador Firefox.
+Gherkin.<br />
+Navegador Firefox.<br />
+OS Linux Ubuntu.
